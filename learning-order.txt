@@ -1,0 +1,24 @@
+1. Module
+2. Singleton
+3. Factory
+4. Prototype
+5. Builder
+6. Abstract Factory
+
+7. Adapter
+8. Facade
+9. Decorator
+10. Proxy
+11. Composite
+12. Bridge
+
+13. Observer
+14. Strategy
+15. Iterator
+16. Command
+17. State
+18. Chain of Responsibility
+19. Mediator
+20. Template Method
+
+21. Dependency Injection
